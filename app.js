@@ -91,4 +91,6 @@ fs.createReadStream("kirbytestRR.png")
     
     this.pack().pipe(fs.createWriteStream("out.png"));
 
+    fs.writeFileSync('cooch.txt', JSON.stringify(cooch));
+
   }));

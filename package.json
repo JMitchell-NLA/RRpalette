@@ -1,0 +1,14 @@
+{
+  "name": "rr_palette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "palleteConverter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pngjs": "^5.0.0"
+  }
+}
